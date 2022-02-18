@@ -1,3 +1,4 @@
+// Tipos de datos
 package main
 
 import "fmt"
